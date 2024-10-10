@@ -454,7 +454,7 @@ const scim_v2_implementations = {
             "server": "Yes",
             "open_source": "No",
             "developer": "Reward Gateway",
-            "link": "https://success.rewardgateway.com/provisioning/scim-api"
+            "link": "https://docs.rewardgateway.net/docs/scim"
         },
         {
             "project_name": "CircleHD",

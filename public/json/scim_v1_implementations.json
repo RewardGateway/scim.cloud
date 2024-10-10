@@ -297,6 +297,14 @@ const scim_v1_implementations = {
       "link": "https://github.com/wso2/charon"
     },
     {
+      "project_name": "Reward Gateway",
+      "client": "No",
+      "server": "Yes",
+      "open_source": "No",
+      "developer": "Reward Gateway",
+      "link": "https://docs.rewardgateway.net/docs/scim"
+    },
+    {
       "project_name": "ideiio",
       "client": "Yes",
       "server": "Yes",
